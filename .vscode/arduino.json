@@ -1,0 +1,7 @@
+{
+    "configuration": "pnum=DAISY_SEED,upload_method=dfuMethod,xserial=generic,usb=CDCgen,xusb=FS,opt=osstd,dbg=none,rtlib=nano",
+    "board": "STMicroelectronics:stm32:GenH7",
+    "sketch": "hackathon.ino",
+    "port": "COM3",
+    "output": "build/"
+}
